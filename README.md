@@ -188,7 +188,7 @@ I'm a passionate 4th-year Data Science & Software Innovation student with a deep
 ##  Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%AA-%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99-970704379/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://skyshineth.github.io/" target="_blank">
