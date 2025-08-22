@@ -155,36 +155,6 @@ I'm a passionate 4th-year Data Science & Software Innovation student with a deep
 
 ---
 
-
-##  Core Competencies
-
-| Area | Skills |
-|------|--------|
-| **Machine Learning** | Model Development, Feature Engineering, Hyperparameter Tuning, Cross-validation |
-| **Deep Learning** | Neural Networks, CNN, Transfer Learning, Model Optimization |
-| **Computer Vision** | Image Processing, Object Detection, Feature Extraction, OpenCV |
-| **Data Science** | Statistical Analysis, Data Visualization, Exploratory Data Analysis |
-| **Software Development** | Object-Oriented Programming, API Development, Testing, Documentation |
-| **Cloud & Deployment** | Model Deployment, Containerization, Cloud Services, CI/CD |
-
----
-
-##  GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skyshineth&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skyshineth&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyshineth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
 ##  Connect with Me
 
 <p align="center">
@@ -200,18 +170,6 @@ I'm a passionate 4th-year Data Science & Software Innovation student with a deep
 </p>
 
 ---
-
-##  Education & Goals
-
-**Current Focus:** Completing my Data Science & Software Innovation degree while building practical experience through personal projects and seeking internship opportunities.
-
-**Career Objective:** To contribute to innovative AI/ML projects that make a positive impact on society while continuing to grow as a data scientist and software developer.
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
 
 <div align="center">
   
