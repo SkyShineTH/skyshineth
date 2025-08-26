@@ -138,7 +138,7 @@ I'm a passionate 4th-year Data Science & Software Innovation student with a deep
 > 
 > Comprehensive statistical analysis examining AI adoption patterns among Indonesian university students. The project includes data collection, preprocessing, statistical modeling, and visualization of adoption trends and factors influencing AI technology acceptance in educational settings.
 
-### ML Model Hyperparameter Optimization
+### [ML Model Hyperparameter Optimization](https://github.com/SkyShineTH/ML-Model-Hyperparameter-Optimization.git)
 > **Tech Stack:** Python, Scikit-learn, Optuna, GridSearch, RandomSearch
 > 
 > A comprehensive study on hyperparameter tuning techniques for various machine learning algorithms. Implements and compares different optimization methods including Grid Search, Random Search, and Bayesian Optimization to achieve optimal model performance across multiple datasets.
