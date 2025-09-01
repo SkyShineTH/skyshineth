@@ -9,7 +9,6 @@
 I'm a passionate about Data Science & Software Innovation student with a deep interest in leveraging AI and machine learning to solve real-world problems. Currently seeking internship opportunities where I can contribute to impactful projects while expanding my technical expertise in AI system development and deployment.
 
 - **Currently learning:** C-Family Software Implementation Vulnerabilities
-- **Seeking:** Data Science/AI internship opportunities
 - **Ask me about:** Machine Learning, Computer Vision, Statistical Analysis
 - **How to reach me:** [oat606606oat@gmail.com](mailto:oat606606oat@gmail.com)
 - **Portfolio:** [Personal Website](https://skyshineth.github.io/)
