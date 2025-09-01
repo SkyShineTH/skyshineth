@@ -6,7 +6,7 @@
 
 ##  About Me
 
-I'm a passionate 4th-year Data Science & Software Innovation student with a deep interest in leveraging AI and machine learning to solve real-world problems. Currently seeking internship opportunities where I can contribute to impactful projects while expanding my technical expertise in AI system development and deployment.
+I'm a passionate about Data Science & Software Innovation student with a deep interest in leveraging AI and machine learning to solve real-world problems. Currently seeking internship opportunities where I can contribute to impactful projects while expanding my technical expertise in AI system development and deployment.
 
 - **Currently working on:** [Indonesian Students AI Adoption Analysis](https://github.com/SkyShineTH/Indonesian-Students-AI-Adoption-Analysis)
 - **Currently learning:** C-Family Software Implementation Vulnerabilities
