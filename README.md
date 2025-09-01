@@ -1,7 +1,6 @@
 <h1 align="center">Hi , I'm Fasai</h1>
 
 <h3 align="center">Data Science & Software Innovation Enthusiast | AI Developer</h3>
-<h4 align="center">4th Year Student | Seeking Internship Opportunities</h4>
 
 ---
 
