@@ -1,7 +1,4 @@
 <h1 align="center">Hi , I'm Fasai</h1>
-
-<h3 align="center">Data Science & Software Innovation Enthusiast | AI Developer</h3>
-
 ---
 
 ##  About Me
