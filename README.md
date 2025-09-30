@@ -8,7 +8,7 @@ I'm a passionate about Data Science & Software Innovation student with a deep in
 
 - **Currently learning:** C-Family Software Implementation Vulnerabilities
 - **Ask me about:** Machine Learning, Computer Vision, Statistical Analysis
-- **How to reach me:** [oat606606oat@gmail.com](mailto:oat606606oat@gmail.com)
+- **How to reach me:** [fasai.utawan@gmail.com](mailto:fasai.utawan@gmail.com)
 - **Portfolio:** [Personal Website](https://skyshineth.github.io/)
 
 ---
