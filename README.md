@@ -126,30 +126,6 @@ I'm a passionate about Data Science & Software Innovation student with a deep in
 
 ---
 
-## Featured Projects
-
-### [Indonesian Students AI Adoption Analysis](https://github.com/SkyShineTH/Indonesian-Students-AI-Adoption-Analysis)
-> **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Statistical Analysis
-> 
-> Comprehensive statistical analysis examining AI adoption patterns among Indonesian university students. The project includes data collection, preprocessing, statistical modeling, and visualization of adoption trends and factors influencing AI technology acceptance in educational settings.
-
-### [ML Model Hyperparameter Optimization](https://github.com/SkyShineTH/ML-Model-Hyperparameter-Optimization.git)
-> **Tech Stack:** Python, Scikit-learn, Optuna, GridSearch, RandomSearch
-> 
-> A comprehensive study on hyperparameter tuning techniques for various machine learning algorithms. Implements and compares different optimization methods including Grid Search, Random Search, and Bayesian Optimization to achieve optimal model performance across multiple datasets.
-
-### Neural Network Model Optimization
-> **Tech Stack:** PyTorch, TensorFlow, Weights & Biases, Learning Rate Scheduling
-> 
-> Deep dive into neural network optimization techniques including learning rate scheduling, batch normalization, dropout strategies, and model compression. Focuses on improving training efficiency and model performance through systematic experimentation.
-
-### E-commerce Sales Data Analysis
-> **Tech Stack:** Python, Pandas, Seaborn, Plotly, Statistical Testing
-> 
-> Exploratory data analysis of e-commerce sales data to identify customer behavior patterns, seasonal trends, and sales performance insights. Includes customer segmentation, revenue analysis, and business recommendations based on data-driven findings.
-
----
-
 ##  Connect with Me
 
 <p align="center">
