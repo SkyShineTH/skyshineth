@@ -72,11 +72,8 @@ I like solving problems across the full lifecycle: data collection, model develo
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SkyShineTH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="450" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyShineTH&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SkyShineTH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyShineTH&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" width="49%" />
 </p>
 
 ---
