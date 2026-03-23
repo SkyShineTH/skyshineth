@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am a final-year Data Science and Software Innovation student at Ubon Ratchathani University (GPAX 3.29/4.00) and a former DevOps Engineering Intern.
+Final-year Data Science student with hands-on experience in DevOps engineering, machine learning, and full-stack development. Proven track record building CI/CD pipelines, managing Kubernetes clusters, and deploying containerized applications at Artery Partner. Passionate about bridging data engineering and infrastructure — from designing ETL pipelines and AI-powered analytics platforms to implementing cloud-native solutions on AWS and GCP. Active open-source contributor and hackathon award winner with a drive to build systems that are both intelligent and resilient.
 
 I like solving problems across the full lifecycle: data collection, model development, backend services, and deployment automation.
 
@@ -22,60 +22,50 @@ I like solving problems across the full lifecycle: data collection, model develo
 
 ---
 
-## Featured Projects
+## 🛠️ Technical Skills
 
-### FootyBrain - Football Analytics Platform
-[Repository](https://github.com/SkyShineTH/FootyBrain)  
-Python, FastAPI, Next.js, PostgreSQL, Docker, Generative AI
+#### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- Built a football data warehouse and ETL workflows for multi-source ingestion
-- Developed match-outcome prediction and automated reporting pipelines
-- Integrated Generative AI to produce natural-language insights from analytics outputs
+#### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Face Recognition Attendance System
-[Repository](https://github.com/oatin/Face-Recognition-Attendance)  
-Python, FastAPI, Django REST Framework, OpenCV, TensorFlow, Raspberry Pi, PostgreSQL, Docker
+#### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-- Designed an edge-to-cloud attendance architecture with Raspberry Pi recognition nodes
-- Implemented offline-first synchronization for unstable network environments
-- Enabled centralized multi-classroom usage with a shared backend database
+#### Web & Mobile Development
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### PyCPBoost - Python C++ Extension
-[Repository](https://github.com/SkyShineTH/PyCPBoost)  
-Python, C++, Python C API
+#### Databases & Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C87?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- Implemented C++ bindings for compute-intensive Python workloads
-- Benchmarked a 92-93x speedup on heavy mathematical operations
-- Documented trade-offs between Python and native-extension performance
-
----
-
-## Experience
-
-### DevOps Engineering Intern - Artery Partner Co., Ltd. (Nov 2025 - Mar 2026)
-
-- Implemented and maintained CI/CD workflows for test, build, and deployment stages
-- Supported cloud infrastructure operations for availability and performance monitoring
-- Operated Kubernetes-based services and participated in troubleshooting workflows
-- Contributed to internal automation to improve collaboration and release efficiency
-
----
-
-## Technical Skills
-
-- Core: Python, FastAPI, Docker, Kubernetes, Linux, PostgreSQL, CI/CD, GitHub Actions, GitLab CI/CD
-- Data and AI: TensorFlow, Keras, OpenCV, Scikit-learn, Pandas, NumPy, ETL, data warehousing
-- Web and app: React, Next.js, Django, Flutter, REST APIs, TypeScript, JavaScript
-- Cloud and observability: AWS, GCP, Prometheus, Grafana, Jenkins, Nginx
-- Additional tools: Power BI, Looker, Jupyter Notebook, Postman, Bash/Shell
-
----
-
-## Achievements
-
-- 3rd Place, UBU Data Analytics Hackathon (2024)
-- Completed UBU Startup Academy (2023)
-- Participated in IoT Smart Natural Rubber Hackathon (2024)
+#### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2CC0C?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ---
 
@@ -83,10 +73,10 @@ Python, C++, Python C API
 
 <p align="center">
   <a href="https://github.com/SkyShineTH">
-    <img src="./profile/stats.svg" alt="GitHub Stats" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SkyShineTH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" />
   </a>
   <a href="https://github.com/SkyShineTH">
-    <img src="./profile/top-langs.svg" alt="Top Languages" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyShineTH&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" width="400" />
   </a>
 </p>
 
