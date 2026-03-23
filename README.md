@@ -9,13 +9,16 @@
 
 ## About Me
 
-Final-year Data Science student with hands-on experience in DevOps engineering, machine learning, and full-stack development. Proven track record building CI/CD pipelines, managing Kubernetes clusters, and deploying containerized applications at Artery Partner. Passionate about bridging data engineering and infrastructure — from designing ETL pipelines and AI-powered analytics platforms to implementing cloud-native solutions on AWS and GCP. Active open-source contributor and hackathon award winner with a drive to build systems that are both intelligent and resilient.
+I'm a final-year Data Science student who enjoys working across the full stack —
+from training ML models to shipping them in containers on Kubernetes.
 
-I like solving problems across the full lifecycle: data collection, model development, backend services, and deployment automation.
+Currently deepening my skills in DevOps and cloud-native infrastructure.
+I care about systems that are observable, reproducible, and easy to deploy.
 
-- 🌱 Learning now: secure software implementation and cloud-native DevOps
-- 💬 Ask me about: machine learning, computer vision, ETL/data pipelines, CI/CD, Kubernetes
-- 🎯 Open to: DevOps, MLOps, and backend/data engineering opportunities
+- 🔧 Recently: CI/CD pipelines & K8s cluster management
+- 🤖 Building: AI-powered analytics platforms and computer vision systems
+- 📦 Into: MLOps, infrastructure automation, and distributed systems
+- 🎯 Open to: DevOps / MLOps / Data Engineering roles
 - 🌐 Portfolio: [skyshineth.github.io](https://skyshineth.github.io/)
 - 📄 CV: [View Full CV](https://skyshineth.github.io/cv/)
 - 📫 Email: [fasai.utawan@gmail.com](mailto:fasai.utawan@gmail.com)
