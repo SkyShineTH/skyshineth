@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fasai Utawan 👋</h1>
 
 <p align="center">
-  DevOps Engineering Intern | Data Science & Software Innovation Student<br/>
+  Data Science & Software Innovation Student<br/>
   Building AI and data products that can run reliably in production.
 </p>
 
@@ -15,7 +15,7 @@ from training ML models to shipping them in containers on Kubernetes.
 Currently deepening my skills in DevOps and cloud-native infrastructure.
 I care about systems that are observable, reproducible, and easy to deploy.
 
-- 🔧 Recently: CI/CD pipelines & K8s cluster management
+- 🔧 Recently: Completed DevOps internship at Artery Partner — CI/CD, Kubernetes & cloud infrastructure
 - 🤖 Building: AI-powered analytics platforms and computer vision systems
 - 📦 Into: MLOps, infrastructure automation, and distributed systems
 - 🎯 Open to: DevOps / MLOps / Data Engineering roles
