@@ -1,26 +1,19 @@
-name: Update Github stat
+name: Update GitHub stats
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-# กันหลายรันซ้อน และกัน push จาก bot ไปกระตุ้น workflow อื่นที่ listen push
-concurrency:
-  group: readme-profile-stats
-  cancel-in-progress: true
-
 permissions:
   contents: write
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
+
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1.1.0
         with:
@@ -28,6 +21,7 @@ jobs:
           options: username=${{ github.repository_owner }}&count_private=true&theme=tokyonight&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1.1.0
         with:
@@ -35,14 +29,15 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=tokyonight&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit cards
+
+      - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           if git diff --staged --quiet; then
-            echo "No SVG changes; skip commit."
+            echo "No changes to commit."
             exit 0
           fi
-          git commit -m "chore: update README stat cards [skip ci]"
+          git commit -m "Update README stats cards"
           git push
