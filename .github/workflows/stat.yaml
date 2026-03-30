@@ -5,6 +5,11 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# กันหลายรันซ้อน และกัน push จาก bot ไปกระตุ้น workflow อื่นที่ listen push
+concurrency:
+  group: readme-profile-stats
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -14,6 +19,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1.1.0
         with:
@@ -33,5 +40,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
+          if git diff --staged --quiet; then
+            echo "No SVG changes; skip commit."
+            exit 0
+          fi
+          git commit -m "chore: update README stat cards [skip ci]"
           git push
