@@ -1,29 +1,28 @@
 <h1 align="center">Hi, I'm Fasai Utawan 👋</h1>
 
 <p align="center">
-  Data Science & Software Innovation Student<br/>
-  Building AI and data products that can run reliably in production.
+  Junior DevOps / MLOps / Data Engineering Candidate<br/>
+  Building deployable AI and data systems with FastAPI, Docker, CI/CD, and GitOps workflows.
 </p>
 
 ---
 
 ## About Me
 
-I'm a final-year Data Science student who enjoys working across the full stack —
-from training ML models to shipping them in containers on Kubernetes.
+I'm a Data Science & Software Innovation graduate who works across DevOps,
+MLOps, backend APIs, and practical AI systems.
 
-Currently deepening my skills in DevOps and cloud-native infrastructure.
-I care about systems that are observable, reproducible, and easy to deploy.
+I focus on projects that are easier to test, deploy, observe, and maintain:
+CI/CD pipelines, Docker workflows, Kubernetes/GitOps delivery, FastAPI services,
+and AI inference APIs with clear privacy and safety boundaries.
 
 - 🔧 Recently: Completed DevOps internship at Artery Partner — CI/CD, Kubernetes & cloud infrastructure
-- 🤖 Building: AI-powered analytics platforms and computer vision systems
-- 📦 Into: MLOps, infrastructure automation, and distributed systems
+- 🤖 Building: AI inference APIs, GitOps platforms, and data products
+- 📦 Strongest areas: Python, FastAPI, Docker, Kubernetes, GitHub Actions, Go, TypeScript
 - 🎯 Open to: DevOps / MLOps / Data Engineering roles
-- 🌐 Portfolio: [skyshineth.github.io](https://skyshineth.github.io/)
-- 📄 CV: [View Full CV](https://skyshineth.github.io/cv/)
+- 🌐 Portfolio: [skyshine.online](https://skyshine.online/)
+- 📄 CV: [View Full CV](https://skyshine.online/cv/)
 - 📫 Email: [fasai.utawan@gmail.com](mailto:fasai.utawan@gmail.com)
-
----
 
 ## 🛠️ Technical Skills
 
@@ -100,7 +99,7 @@ I care about systems that are observable, reproducible, and easy to deploy.
   <a href="https://www.linkedin.com/in/fasai-utawan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://skyshineth.github.io/" target="_blank">
+  <a href="https://skyshine.online/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:fasai.utawan@gmail.com" target="_blank">
