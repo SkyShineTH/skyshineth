@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Fasai Utawan 👋</h1>
 
 <p align="center">
-  Junior DevOps / MLOps / Data Engineering Candidate<br/>
-  Building deployable AI and data systems with FastAPI, Docker, CI/CD, and GitOps workflows.
+  Junior DevOps / MLOps / AI Infrastructure Candidate<br/>
+  Building deployable AI systems and agent infrastructure with FastAPI, Python, Docker, CI/CD, and policy-driven automation.
 </p>
 
 ---
@@ -10,16 +10,16 @@
 ## About Me
 
 I'm a Data Science & Software Innovation graduate who works across DevOps,
-MLOps, backend APIs, and practical AI systems.
+MLOps, backend APIs, and safe AI agent infrastructure.
 
-I focus on projects that are easier to test, deploy, observe, and maintain:
+I focus on projects that are easier to test, deploy, observe, and control:
 CI/CD pipelines, Docker workflows, Kubernetes/GitOps delivery, FastAPI services,
-and AI inference APIs with clear privacy and safety boundaries.
+privacy-first AI inference APIs, and permission gateways for tool-using agents.
 
 - 🔧 Recently: Completed DevOps internship at Artery Partner — CI/CD, Kubernetes & cloud infrastructure
-- 🤖 Building: AI inference APIs, GitOps platforms, and data products
+- 🤖 Building: AgentGate for AI agent permission workflows and GitOps/data systems
 - 📦 Strongest areas: Python, FastAPI, Docker, Kubernetes, GitHub Actions, Go, TypeScript
-- 🎯 Open to: DevOps / MLOps / Data Engineering roles
+- 🎯 Open to: DevOps / MLOps / AI Infrastructure / Data Engineering roles
 - 🌐 Portfolio: [skyshine.online](https://skyshine.online/)
 - 📄 CV: [View Full CV](https://skyshine.online/cv/)
 - 📫 Email: [fasai.utawan@gmail.com](mailto:fasai.utawan@gmail.com)
