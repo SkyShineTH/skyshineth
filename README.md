@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://skyshine.online/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/fasai-utawan/">LinkedIn</a> ·
-  <a href="https://skyshine.online/cv/">CV</a> ·
-  <a href="mailto:fasai.utawan@gmail.com">Email</a>
+  [ <a href="https://skyshine.online/">Portfolio</a> ]&nbsp;&nbsp;
+  [ <a href="https://www.linkedin.com/in/fasai-utawan/">LinkedIn</a> ]&nbsp;&nbsp;
+  [ <a href="https://skyshine.online/cv/">CV</a> ]&nbsp;&nbsp;
+  [ <a href="mailto:fasai.utawan@gmail.com">Email</a> ]
 </p>
 
 ---
