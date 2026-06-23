@@ -1,7 +1,7 @@
 <h1 align="center">SkyShine</h1>
 
 <p align="center">
-  DevOps / MLOps engineer — I make AI systems deployable, observable, and safe.
+  Bridging machine learning and the infrastructure that runs it.
 </p>
 
 <p align="center">
